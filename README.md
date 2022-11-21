@@ -8,5 +8,5 @@ I'm a data science student at University of Makati where I'm currently studying 
 * 🤔 I’m looking for help with experts in the NLP field and VR WebXR
 * 💬 Ask me about Cryptocurrency, NFTs, Airdrops, Smart contracts, MEV, Flashbot
 * 📫 How to reach me: [Twitter](https://twitter.com/shercostiniano) • [LinkedIn](https://www.linkedin.com/in/shercostiniano)
-* ⚡ Fun fact: I reached my first 8-figure net worth by just flipping NFTs and Shitcoin
+* ⚡ Fun fact: I reached my first 8-figure net worth by just flipping NFTs and Shitcoin and participating in IDO
 
