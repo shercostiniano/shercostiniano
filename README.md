@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Sherwyne Costiniano.
-I'm a data science student at University of Makati where I currently doing a study in the topics related NLP and Virtual Reality localized for Filipino language. 
+I'm a data science student at University of Makati where I currently studying topics related NLP and Virtual Reality localized for Filipino language. 
 
 🔭 I’m currently working on my Thesis
 ⚙️ I develop automation bots and analytics tools for Web3.
