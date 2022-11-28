@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Sherwyne Costiniano.
 Currently a Data Science student at University of Makati, studying topics related in Natural Language Processing, Speech Recognition, and Virtual Reality localized in Filipino language. This thesis is a part of requirements to finish my Bachelor's Degree in Computational and Data Sciences
 
-* 🔭 I’m currently working on my Thesis. Check out my pre-trained models in [HuggingFace🤗](https://huggingface.co/scostiniano)
+* 🔭 I’m currently working on my Thesis. Check out pre-trained models in [HuggingFace🤗](https://huggingface.co/scostiniano)
 * 🤖 My main programming language is Python🐍 utilized for data science tasks, automation tools, and bots
 * ⚙️ I develop automation bots and analytics tools for Web3. Feel free to check it in my [Discord server](https://discord.gg/Ar7qCq3c8J)
 * 🌱 I’m currently learning NLP, Virtual Reality, Solidity
