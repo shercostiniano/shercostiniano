@@ -9,6 +9,8 @@ Currently a Data Science student at University of Makati, studying topics relate
 * 💬 Ask me about Shitcoins and NFTs
 * ⚡ Fun fact: My sidehustles are flipping NFTs, Shitcoins, IDOs, and Airdrops
 
-Publications
+Publications:
+1. Custom Coarse Grained Named Entity Recognition for Filipino Storytelling Data Using Uncased Transformer Models. 
+DOI: [http://dx.doi.org/10.2139/ssrn.4310555](http://dx.doi.org/10.2139/ssrn.4310555)
 
 #### Social Links: [Twitter](https://twitter.com/shercostiniano) • [LinkedIn](https://www.linkedin.com/in/shercostiniano)
